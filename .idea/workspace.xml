@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8c8a73e7-009c-4499-83bd-f5a091a97dc4" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hadMd9sfEzo5TpflIjUxyxF8Le" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.8.0" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.10.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path" value="node" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunManager" selected="Node.js.appJWT.js">
+    <configuration name="appJWT.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/appJWT.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <configuration name="main.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/main.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.appJWT.js" />
+        <item itemvalue="Node.js.main.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c8a73e7-009c-4499-83bd-f5a091a97dc4" name="Default Changelist" comment="" />
+      <created>1600253089585</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600253089585</updated>
+      <workItem from="1600253091089" duration="806000" />
+      <workItem from="1600262031865" duration="23000" />
+      <workItem from="1600354406217" duration="3642000" />
+      <workItem from="1600413738813" duration="6214000" />
+      <workItem from="1600441526685" duration="3000" />
+      <workItem from="1600445588021" duration="4819000" />
+      <workItem from="1600498969378" duration="4000" />
+      <workItem from="1600682024399" duration="1242000" />
+      <workItem from="1600759102464" duration="1236000" />
+      <workItem from="1600910999541" duration="144000" />
+      <workItem from="1600937022208" duration="2560000" />
+      <workItem from="1601196075139" duration="6368000" />
+      <workItem from="1601204492576" duration="5477000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1600253423358">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="734" y="355" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1600253423358" />
+    <state x="1047" y="500" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601206948210">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1047" y="500" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1601206948210" />
+    <state x="1060" y="455" key="FileChooserDialogImpl" timestamp="1600262053868">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1060" y="455" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1600262053868" />
+    <state width="1269" height="401" key="GridCell.Tab.0.bottom" timestamp="1601211120147">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1269" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1601211120147" />
+    <state width="1269" height="401" key="GridCell.Tab.0.center" timestamp="1601211120147">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1269" height="401" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1601211120147" />
+    <state width="1269" height="401" key="GridCell.Tab.0.left" timestamp="1601211120146">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1269" height="401" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1601211120146" />
+    <state width="1269" height="401" key="GridCell.Tab.0.right" timestamp="1601211120147">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1269" height="401" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1601211120147" />
+  </component>
+</project>
